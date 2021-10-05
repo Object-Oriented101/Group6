@@ -1,4 +1,4 @@
-# Group6
+# LCTRS Summarizer Tool
 Welcome to LCTRS! This our CS196@Illinois group project. We decided to create a tool to summarize lecture transcripts to assist students in online learning. Below, you can find instructions to use our project and get some insight into what we did.
 
 ## How to Run
